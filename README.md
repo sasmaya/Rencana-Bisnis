@@ -1,2 +1,2 @@
 # Rencana-Bisnis
-Repo untuk renncana bisnis
+Repo untuk rencana bisnis
